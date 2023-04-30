@@ -1,4 +1,4 @@
-# [CALCULATOR](https://guavalines.github.io/calculator/) ☜ see here
+# CALCULATOR
 
 # Description
 This is a simple calculator.
